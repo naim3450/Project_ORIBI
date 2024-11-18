@@ -7,10 +7,10 @@ import Footer from './footer'
 const RoutLayout = () => {
   return (
     <div>
-        <Navber/>
-        <SubHeadder/>
-        <Outlet/>
-        <Footer/>
+      <Navber />
+      <SubHeadder />
+      <Outlet />
+      <Footer />
     </div>
   )
 }

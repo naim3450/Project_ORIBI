@@ -9,11 +9,11 @@ import Spoffer from '../components/Spoffer'
 const Home = () => {
   return (
     <>
-    <Bennar src={bennarImg}/>
-    <ThreeImg/>
-    <Arrivals/>
-    <Bennar src={Ads}/>
-    <Spoffer/>
+      <Bennar src={bennarImg} />
+      <ThreeImg />
+      <Arrivals />
+      <Bennar src={Ads} />
+      <Spoffer />
     </>
   )
 }
